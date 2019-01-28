@@ -1,0 +1,8 @@
+{
+  "defaultLang": "fr",
+  "fallbackLang": "en",
+  "supportedLang": [
+    "en",
+    "fr"
+  ]
+}

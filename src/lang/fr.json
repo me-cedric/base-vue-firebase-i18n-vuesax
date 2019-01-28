@@ -1,0 +1,16 @@
+{
+    "home": {
+    },
+    "login": {
+        "noAccount": "Pas encore de compte ?",
+        "createOne": "Creez-en un",
+        "login": "Connexion"
+    },
+    "signup": {
+        "existingAccount": "Vous avez déjà un compte ?",
+        "connect": "Connectez-vous",
+        "signup": "Inscription"
+    },
+    "email": "Email",
+    "password": "Mot de passe"
+}
